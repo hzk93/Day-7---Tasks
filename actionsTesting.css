@@ -12,7 +12,7 @@ p{
     margin-left: 50px;
 }
 
-#animateCompleted, #fadeInCompleted{
+#animateCompleted, #fadeInCompleted, #fadeToCompleted{
     font-size: 50px;
     margin-left: 50px;
 }
