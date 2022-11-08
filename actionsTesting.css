@@ -1,0 +1,22 @@
+*{
+    font-family: "Tahoma";
+}
+
+p{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+#animateP{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+#animateCompleted, #fadeInCompleted{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+div > h1{
+    font-size: 50px;
+}
